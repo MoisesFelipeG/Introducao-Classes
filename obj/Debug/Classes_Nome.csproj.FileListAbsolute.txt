@@ -1,0 +1,13 @@
+H:\POO\Etapa2\Classes_Nome\bin\Debug\Classes_Nome.exe.config
+H:\POO\Etapa2\Classes_Nome\bin\Debug\Classes_Nome.exe
+H:\POO\Etapa2\Classes_Nome\bin\Debug\Classes_Nome.pdb
+H:\POO\Etapa2\Classes_Nome\obj\Debug\Classes_Nome.csproj.AssemblyReference.cache
+H:\POO\Etapa2\Classes_Nome\obj\Debug\Classes_Nome.csproj.SuggestedBindingRedirects.cache
+H:\POO\Etapa2\Classes_Nome\obj\Debug\Classes_Nome.FrmPrefeito.resources
+H:\POO\Etapa2\Classes_Nome\obj\Debug\Classes_Nome.Properties.Resources.resources
+H:\POO\Etapa2\Classes_Nome\obj\Debug\Classes_Nome.csproj.GenerateResource.cache
+H:\POO\Etapa2\Classes_Nome\obj\Debug\Classes_Nome.csproj.CoreCompileInputs.cache
+H:\POO\Etapa2\Classes_Nome\obj\Debug\Classes_Nome.exe
+H:\POO\Etapa2\Classes_Nome\obj\Debug\Classes_Nome.pdb
+H:\POO\Etapa2\Classes_Nome\obj\Debug\Classes_Nome.FrmAlimento.resources
+H:\POO\Etapa2\Classes_Nome\obj\Debug\Classes_Nome.FrmLoja.resources
